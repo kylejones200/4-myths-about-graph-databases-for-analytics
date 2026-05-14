@@ -1,7 +1,7 @@
 # 4 myths about Graph databases for analytics
 
-**Published:** 2024-03-27
-**Medium:** [https://medium.com/@kyle-t-jones/4-myths-about-graph-databases-for-analytics-2eec7219a6d8](https://medium.com/@kyle-t-jones/4-myths-about-graph-databases-for-analytics-2eec7219a6d8)
+Published: 2024-03-27
+Medium: [https://medium.com/@kyle-t-jones/4-myths-about-graph-databases-for-analytics-2eec7219a6d8](https://medium.com/@kyle-t-jones/4-myths-about-graph-databases-for-analytics-2eec7219a6d8)
 
 ## About
 
