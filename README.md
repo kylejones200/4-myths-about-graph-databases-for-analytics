@@ -11,14 +11,7 @@ But, in my experience, using Graph DB is always more difficult than customers ex
 
 As part of introducing any new technology, the project sponsor will start learning about the solution and share the benefits of Graph DB with leadership across the organization. Unintentionally, these educational presentations can cause hype and set expectations that Graph DB can do much more than it was actually capable of doing.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
